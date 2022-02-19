@@ -1,6 +1,6 @@
 ### Olá eu sou o Alef👋
 
-//Olá, estou iniciando agora nesse tão incrivel mundo da programação, atualmente aendendo JAVA e logo menos Font-end, Back-end e outras linguagens.
+//Olá, estou iniciando agora nesse tão incrivel mundo da programação, atualmente aprendendo JAVA e logo menos Font-end, Back-end e outras linguagens.
 
 //Hello, I am starting now in this so amazing programming world, currently learning JAVA and son less Frnot-end, Back and and others lenguages 
 
